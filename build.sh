@@ -1,1 +1,1 @@
-docker build -t unknownhero/sonnar-scanner-ts .
+docker build -t unknownhero/sonar-scanner-ts .
